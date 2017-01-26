@@ -22,7 +22,6 @@
 		
 		<script type="text/javascript" src="asset/js/jquery-2.1.1.min.js"></script>
 		<script type="text/javascript" src="asset/js/custom.js"></script>
-
 	</head>
 	<body>
  	
